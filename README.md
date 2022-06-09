@@ -4,7 +4,7 @@ Facilitates Windows Registry interactions with some advantages over regedit.exe.
 ## Supported locales:
 Crimean Tatar, English, French, Turkish
 
-E.g., pour lancer en français, utiliser la commande suivante :
+E.g., pour lancer en français, utiliser la commande suivante :  
 `registry-assistant.exe /l fr`
 
 ## Download executables:

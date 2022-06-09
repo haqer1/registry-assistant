@@ -5,10 +5,10 @@ Facilitates Windows Registry interactions with some advantages over regedit.exe.
 Crimean Tatar, English, French, Turkish
 
 ## UI screenshots (in various locales):
-![Search tab (in French)](docs/include/img/intro/rechercher.fr.png?raw=true)
-![Explore tab (in Turkish)](docs/include/img/intro/browsing.tr.png?raw=true)
-![About tab (in English)](docs/include/img/intro/about.en.png?raw=true)
-![(Interrupted) search results (in Crimean Turkish)](docs/include/img/intro/search_results.crh.png?raw=true)
+![Search tab (in French)](docs/include/img/intro/rechercher.fr.png)
+![Explore tab (in Turkish)](docs/include/img/intro/browsing.tr.png)
+![About tab (in English)](docs/include/img/intro/about.en.png)
+![(Interrupted) search results (in Crimean Turkish)](docs/include/img/intro/search_results.crh.png)
 
 ## Troubleshooting
 ### If during execution you see the following error message:

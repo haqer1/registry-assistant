@@ -12,7 +12,7 @@ E.g., pour lancer en français, utiliser la commande suivante :
 [win64](https://github.com/haqer1/registry-assistant/raw/master/dist/registry-assistant.win64.exe)
 
 ## UI screenshots (in various locales):
-Search tab (in French):
+*Search tab (in French):*
 ![Search tab (in French)](doc/include/img/intro/rechercher.fr.png)
 *Explore tab (in Turkish):*
 ![Explore tab (in Turkish)](doc/include/img/intro/browsing.tr.png)
